@@ -1,1 +1,1 @@
- Simple console application of the crud service with a student database
+ Simple console application of the CRUD service with a student database
